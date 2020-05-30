@@ -1,5 +1,5 @@
 {
-  "name": "Weather Journal",
+  "name": "Weather-Journal",
   "version": "1.0.0",
   "description": "Get weather info by providing zip code.",
   "main": "server.js",
